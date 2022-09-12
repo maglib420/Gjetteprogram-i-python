@@ -2,6 +2,7 @@ from random import randint, random
 
 spillPaaNytt = True
 
+
 while spillPaaNytt == True:
     forsøk = 1
     nummer = randint(1,10)
